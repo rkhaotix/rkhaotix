@@ -19,9 +19,4 @@ A simple brazilian guy :brazil:, husband :couple:, father of two kids :girl: :bo
 
 My restless and curious personality led me to create the most important project of my life: [pgModeler - PostgreSQL Database Modeler](https://pgmodeler.io), my tiny and humble contribution to the open-source community which changed my way to see how software should be created not for the money but for the willing to share knowledge, freedom and in the hope that your work can help others around the world! :heart:
 
-The idea to create pgModeler born when I still was in college almost two decades ago. During the classes of **computer graphics**, **compilers**
-, and **database systems** I was dreaming of creating some projects that could involve these amazing branches of Computer Science. Being a lover of C++ language since then, back in 2004 I had my first contact with Linux, PostgreSQL and Qt framework. It was my chance to put into practice that bold idea to create my own modeling software. Until 2005, I was only creating small PoCs to make sure that I could start my project. Only in 2006, I started to work for real on pgModeler (called initially pgsqlDBM). 
-
-Between 2006 and mid-2012, pgModeler wasn't known by the community because I wasn't confident enough to show it to the world!  Just at the end of 2012, I decided to release pgModeler as open-source software and the feedback was amazing. Today, it's a mature tool and widely used around the world for my pride and joy! :tada: :confetti_ball: 
-
-That's it! Feel free to get in touch with me! :wink:
+Feel free to get in touch with me! :wink:
