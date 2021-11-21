@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 A simple brazilian guy :brazil:, husband :couple:, father of two kids :girl: :boy: and a lover of anything related to tech especially **software development** and **video games**. Not forgetting to mention that I love a mug full of coffee :coffee: while putting ideas out of my head and a glass of good wine :wine_glass: while relaxing with my family! Currently, I'm living at [Palmas, Tocantins](https://www.google.com.br/maps/place/Palmas,+TO/@-10.2600522,-48.4172749,12z/data=!3m1!4b1!4m5!3m4!1s0x933b3439911f1257:0x93b8070d05c818f!8m2!3d-10.249091!4d-48.3242858) one of the most beautiful and hottest cities in South America! :smile: 
 
-My restless and curious personality led me to create the most important project of my life: [pgModeler - PostgreSQL Database Modeler](https://pgmodeler.io), my tiny and humble contribution to the open-source community which changed my way to see how software should be created not for the money but for the willing to share knowledge, freedom and in the hope that your work can help others around the world! :heart:
+My restless and curious mind led me to create the most important project of my life: [pgModeler - PostgreSQL Database Modeler](https://pgmodeler.io), my tiny and humble contribution to the open-source community which changed my way to see how softwares must be created, not for the money but for the willing to share knowledge, freedom and in the hope that your work can help others around the world! :heart:
 
 Feel free to get in touch with me! :wink:
